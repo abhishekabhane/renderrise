@@ -8,6 +8,12 @@ body {
         margin: unset;
         position: relative;
     }
+    #ourServices {
+        font-size: 30px;
+    }
+    #ourServicesContactUs {
+        font-size: 15px;
+    }
 }
 
 .scrollbar-hide::-webkit-scrollbar {
